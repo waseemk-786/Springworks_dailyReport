@@ -1,0 +1,30 @@
+#main{
+
+  text-align: center;
+}
+
+.App{
+  
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 100vh;
+
+}
+.controls{
+
+  width: 40vw;
+}
+
+
+.box{
+  text-align: center;
+  padding: 20vh 0px;
+  width: 40vw;
+  height: 50vh;
+  
+  background-color: aqua;
+  color: white;
+  
+  
+}
